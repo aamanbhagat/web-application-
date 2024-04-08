@@ -1,0 +1,73 @@
+Index
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Page Website</title>
+</head>
+
+<body>
+    <h1>Welcome to the Home Page!</h1>
+
+    <p>Click on the links below to navigate to different pages:</p>
+
+    <ul>
+        <li><a href="page1.html">Page 1</a></li>
+        <li><a href="page2.html">Page 2</a></li>
+        <li><a href="page3.html">Page 3</a></li>
+    </ul>
+</body>
+
+</html>
+
+
+
+
+
+page1.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 1</title>
+</head>
+
+<body>
+    <h1>Welcome to Page 1!</h1>
+
+    <p>This is the content of Page 1.</p>
+
+    <a href="index.html">Back to Home</a>
+</body>
+
+</html>
+
+
+page2.html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 2</title>
+</head>
+
+<body>
+    <h1>Welcome to Page 2!</h1>
+
+    <p>This is the content of Page 2.</p>
+
+    <a href="index.html">Back to Home</a>
+</body>
+
+</html>
