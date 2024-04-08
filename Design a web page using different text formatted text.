@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <p>This text is normal</p>
+  <p><i>This text is italic</i></p>
+  <p><small>This text is smaller text.</small></p>
+  <p>Do not forget to buy <mark>milk</mark></p>
+  <p>My favorite color id <del>blue</del>red</p>
+  <p>This is <sub>subsripted</sub>text</p>
+  <p>This is <sup>superipted</sup>text</p>
+  <p><em>This is em tag</em></p>
+  <p><strong>This is strong text.</strong></p>
+  <p><big>This is big text</big></p>
+  <p><s>This is line-throug</s></p>
+  <p><u>This is underline tag</u></p>
+</body>
+</html>
