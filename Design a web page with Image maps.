@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Map Example</title>
+</head>
+
+<body>
+    <h1>Image Map Example</h1>
+
+    <img src="example.jpg" alt="Example Image" usemap="#image-map">
+
+    <map name="image-map">
+        <area shape="rect" coords="0,0,100,100" href="page1.html" alt="Page 1">
+        <area shape="circle" coords="200,200,50" href="page2.html" alt="Page 2">
+        <area shape="poly" coords="300,100,400,200,200,300" href="page3.html" alt="Page 3">
+    </map>
+</body>
+
+</html>
