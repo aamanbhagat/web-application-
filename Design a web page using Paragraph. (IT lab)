@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+</head>
+
+<body>
+
+  <header>
+    <p>ELon Musk</p>
+
+  </header>
+  <section>
+
+    <p>Welcome to your web page!</p>
+    <br>
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit consequatur nisi
+      voluptate consectetur dignissimos venian minima autem corporis quia recusandae.
+
+  </section>
+  </p>
+
+  <footer>
+    <p>&copy; 2024 Elon Musk</p>
+
+  </footer>
+</body>
+
+</html>
